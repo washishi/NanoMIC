@@ -1,7 +1,6 @@
 # NanoMIC  
 ## M5Stackシリーズ のGroveポート内に取り付けることのできる超小型のPDMマイク基板です
-<img src="docs/images/NanoMIC.jpg" width="300px" height="280px">
-<img src="docs/images/IMG20250531031034.jpg" width="300px" height="280px"><br>
+<img src="docs/images/NanoMIC.jpg" width="300px" height="280px"><img src="docs/images/IMG20250531031034.jpg" width="300px" height="280px"><br>
 
 - 取り付けることによりPDMマイクの利用が可能です  
 - 純正の[PDMマイクユニット](https://docs.m5stack.com/ja/unit/pdm)と互換性がありますので置き換えて利用可能です  
@@ -14,24 +13,20 @@
 - 取り付け方  
   - 写真の向きでGroveコネクタのピンの上にNanoMIC基板を斜めに差し込みます  
     (基板の角がコネクタのピンとケースの隙間に入るように)  
-<img src="docs/images/IMG20250601211758.jpg" width="300px" height="280px">
-<img src="docs/images/IMG20250601211259.jpg" width="300px" height="280px"><br>
+<img src="docs/images/IMG20250601211758.jpg" width="300px" height="280px"><img src="docs/images/IMG20250601211259.jpg" width="300px" height="280px"><br>
   - NanoMIC基板を水平に起こします  
-<img src="docs/images/IMG20250601211350.jpg" width="300px" height="280px">
-<img src="docs/images/IMG20250601211336.jpg" width="300px" height="280px"><br>
+<img src="docs/images/IMG20250601211350.jpg" width="300px" height="280px"><img src="docs/images/IMG20250601211336.jpg" width="300px" height="280px"><br>
   - NanoMIC基板をGroveコネクタに押し込んで完了です  
-    左側の様に押し込むのを基板の切り欠きが見える状態までにしておくと取り外しが楽です  
-    さらに押し込むと右側の様に完全に入れることが出来ます  
-<img src="docs/images/IMG20250601211458.jpg" width="300px" height="280px">
-<img src="docs/images/IMG20250601211526.jpg" width="300px" height="280px">
+    左側の様に押し込むのを基板の切り欠けが見える状態までにしておくと取り外しが楽です  
+    さらに押し込むと右側の様に完全に入れることモ出来ます  
+<img src="docs/images/IMG20250601211458.jpg" width="300px" height="280px"><img src="docs/images/IMG20250601211526.jpg" width="300px" height="280px">
 - 取り外し方
   - ※完全に押し込んでいない場合は次のステップへ進んでください  
-    NanoMIC基板のマイク(銀色の四角部分)に爪をかけて右側の様に基板の切り欠きが見えるまで少し引き出します  
-    (あまり力を掛けると外れて飛んでいく可能性がありますで注意してください)
-<img src="docs/images/IMG20250601212205.jpg" width="300px" height="280px">
-<img src="docs/images/IMG20250601211458.jpg" width="300px" height="280px">
-  - 基板の切り欠き部分に爪をかけて完全に引き抜いて取り外し完了です  
-<img src="docs/images/IMG20250601211618.jpg" width="300px" height="280px">
+    NanoMIC基板のマイク(銀色の四角部分)に爪をかけて右側の様に基板の切り欠けが見えるまで少し引き出します  
+    (あまり力を掛けると外れて飛んでいく可能性がありますで注意してください)  
+<img src="docs/images/IMG20250601212205.jpg" width="300px" height="280px"><img src="docs/images/IMG20250601211458.jpg" width="300px" height="280px">
+  - 基板の切り欠け部分に爪をかけて完全に引き抜いて取り外し完了です  
+<img src="docs/images/IMG20250601211618.jpg" width="300px" height="280px"><img src="docs/images/IMG20250602065909.jpg" width="300px" height="280px">
 
 ## ソフトウエアでの利用について
 M5Stackの[PDMマイクユニット](https://docs.m5stack.com/ja/unit/pdm)と同様に利用できます  
@@ -41,10 +36,8 @@ M5Burnerに上げています
 <img src="docs/images/SampleProgram.png" width="700px" height="180px">
 
 ## 基板イメージ
-<img src="docs/images/3d-top.png" width="300px" height="280px">
-<img src="docs/images/3d-bottom.png" width="300px" height="280px">  
-<img src="docs/images/top_pattern.png" width="300px" height="280px">
-<img src="docs/images/bottom_pattern.png" width="300px" height="280px">
+<img src="docs/images/3d-top.png" width="300px" height="280px"><img src="docs/images/3d-bottom.png" width="300px" height="280px">  
+<img src="docs/images/top_pattern.png" width="300px" height="280px"><img src="docs/images/bottom_pattern.png" width="300px" height="280px">
 
 ## 回路図
 M5StackのPDMマイクユニットとは利用している部品が異なるだけでほぼ同じ回路です  
