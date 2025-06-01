@@ -1,0 +1,119 @@
+(footprint "CardEdge_1x04_P2.00mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Through hole straight socket strip, 1x04, 2.00mm pitch, single row (from Kicad 4.0.7), script generated")
+	(tags "Through hole socket strip THT 1x04 2.00mm single row")
+	(property "Reference" "J1"
+		(at 0 -2.5 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "01428f19-657b-4c1c-a97b-4669aae06f22")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CardEdge_1x04_P2.00mm"
+		(at 0 8.5 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f81336fd-c651-4241-b1c5-c141cf6ac4df")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "2bb654fd-29b0-4854-a38c-7f8272ef18c2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" "Generic connector, single row, 01x04, script generated"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "9ff3021b-c86d-4ca5-bced-f01219911166")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "LCSC" ""
+		(at 241.62 18.1 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d0c2a1fe-9624-442e-8816-765987fd2797")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(fp_text user "${REFERENCE}"
+		(at 0.025 3.05 0)
+		(layer "F.Fab")
+		(uuid "9feee3fc-7372-4fc5-aa34-d8714a5257fc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" connect rect
+		(at 0 6)
+		(size 3.46 0.8)
+		(layers "F.Cu" "F.Mask")
+		(uuid "745d2da0-e6e6-47ae-a992-599204f74d50")
+	)
+	(pad "2" connect rect
+		(at 0 4)
+		(size 3.46 0.8)
+		(layers "F.Cu" "F.Mask")
+		(uuid "678ad11a-2e47-4d01-ba3f-8af34784b036")
+	)
+	(pad "3" connect rect
+		(at 0 2)
+		(size 3.46 0.8)
+		(layers "F.Cu" "F.Mask")
+		(uuid "07f960d5-0372-421b-a34a-4f6b91735465")
+	)
+	(pad "4" connect rect
+		(at 0 0)
+		(size 3.46 0.8)
+		(layers "F.Cu" "F.Mask")
+		(uuid "35d0908f-8594-45a9-995c-fac8a20e98ac")
+	)
+	(embedded_fonts no)
+	(model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.00mm.3dshapes/PinSocket_1x04_P2.00mm_Vertical.wrl"
+		(hide yes)
+		(offset
+			(xyz -1.8 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 90 0)
+		)
+	)
+)

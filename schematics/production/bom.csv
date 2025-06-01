@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C3",0402,2,1uF,
+C2,0402,1,0.1uF,
+J1,CardEdge_1x04_P2.00mm,1,Conn_01x04_Socket,
+MIC1,Knowles_LGA-5_3.5x2.65mm,1,SPH0641LM4H-1,
+U1,"OnSemi_XDFN4-1.2x1.2,0.8P",1,NCP171AMX330325TCG,
